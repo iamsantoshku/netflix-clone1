@@ -1,0 +1,13 @@
+.movieli{
+    display: flex; 
+     flex-direction: column;
+}
+
+.slide{
+    display: flex;
+    
+}
+
+.dir{
+    color: white;
+}

@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+}
+.nav1{
+    display: flex;
+    /* float: right; */
+    /* margin-left: 50vw; */
+}
+.serc{
+    display: flex;
+    margin-left: 80vw;
+    margin-top: -3vw;
+}

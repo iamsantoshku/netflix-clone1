@@ -1,0 +1,45 @@
+/* button{
+    margin-left: 80vw;
+    /* margin-top: -5vw; */
+/* }  */
+.login button{
+    margin-left: 60vw;
+}
+.head h1{
+    color: white;
+}
+.head h4{
+    color: blanchedalmond;
+
+}
+.head h6{
+    color: white
+    
+}
+.but {
+    
+
+}
+.butt button{
+    /* margin-left: 20vw; */
+}
+ input[type=email]{
+    margin-left: 33vw;
+}
+input[type=password]{
+    margin-left: 0vw;
+}
+.content{
+    /* margin-left: 20vw; */
+}
+.cont{
+    margin-left: 35vw;
+    margin-top: 5vw;
+}
+.int{
+    /* margin: 3vw; */
+    /* padding: 3vw; */
+}
+.int button{
+    /* margin-left: 20vw; */
+}
